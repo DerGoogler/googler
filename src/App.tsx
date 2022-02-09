@@ -77,7 +77,7 @@ class App extends React.Component {
       "@global": {
         "@font-face": {
           fontFamily: '"ITC Blair"',
-          src: 'url("https://cdn.dergoogler.com/other/googler/fonts/c50c451297e0ceb237437de8487237e8.eot?#iefix")\r\n            format("embedded-opentype"),\r\n          \r\n            url("https://cdn.dergoogler.com/other/googler/fonts/c50c451297e0ceb237437de8487237e8.woff2")\r\n            format("woff2"),\r\n          \r\n            url("https://cdn.dergoogler.com/other/googler/fonts/c50c451297e0ceb237437de8487237e8.woff")\r\n            format("woff"),\r\n          \r\n            url("https://cdn.dergoogler.com/other/googler/fonts/c50c451297e0ceb237437de8487237e8.ttf")\r\n            format("truetype"),\r\n          \r\n            url("https://cdn.dergoogler.com/other/googler/fonts/c50c451297e0ceb237437de8487237e8.svg#ITC Blair")\r\n            format("svg")',
+          src: 'url("https://cdn.dergoogler.com/others/googler/fonts/c50c451297e0ceb237437de8487237e8.eot?#iefix")\r\n            format("embedded-opentype"),\r\n          \r\n            url("https://cdn.dergoogler.com/others/googler/fonts/c50c451297e0ceb237437de8487237e8.woff2")\r\n            format("woff2"),\r\n          \r\n            url("https://cdn.dergoogler.com/others/googler/fonts/c50c451297e0ceb237437de8487237e8.woff")\r\n            format("woff"),\r\n          \r\n            url("https://cdn.dergoogler.com/others/googler/fonts/c50c451297e0ceb237437de8487237e8.ttf")\r\n            format("truetype"),\r\n          \r\n            url("https://cdn.dergoogler.com/others/googler/fonts/c50c451297e0ceb237437de8487237e8.svg#ITC Blair")\r\n            format("svg")',
         },
         "html, body": {
           background:
